@@ -3,9 +3,11 @@
 ## Description
 This application is a shell script (to run on the Bourne shell) that allows a user to view, add, or delete a setting in a configuration file (config.txt) that contains settings in the form variable=value.
 
+## Running
+
 This is implemented by Bash (Unix Shell), please download the code, transfer it to a Linux or Unix system, or transfer the code to a virtual machine which is installed a Linux or Unix system.
 
-## Then input the command.
+Then input the command in Linux/Unix command.
 
 ### 1. Add execute permission to setting.sh
 
@@ -15,7 +17,7 @@ This is implemented by Bash (Unix Shell), please download the code, transfer it 
 
 `./setting.sh`
 
-### 3. Test the program
+## Test
 
 Here is a sample output of your script. The $ is the shell prompt. The texts in & are not part of the sample output. They are hints indicating how your script should behave
 
